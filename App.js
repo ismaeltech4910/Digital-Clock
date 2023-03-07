@@ -11,7 +11,6 @@ function getClock() {
   hr.innerText = hour;
   min.innerText = minute;
   sec.innerText = second;
-  today.innerText = day;
   
 
   setTimeout(() => {
